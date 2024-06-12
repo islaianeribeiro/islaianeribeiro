@@ -12,16 +12,20 @@
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=islaianeribeiro&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=islaianeribeiro&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=islaianeribeiro&show_icons=true" />
-</picture>
+<div>
+  <a href="https://github.com/islaianeribeiro/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=islaianeribeiro&theme=dracula&show_icons=true&icon_color=6757a3&title_color=6757a3&include_all_commits=true&bg_color=000" />
+  </a>
+  <a href="https://github.com/islaianeribeiro/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islaianeribeiro&layout=compact&langs_count=8&card_width=320&theme=dracula&title_color=6757a3&bg_color=000" />
+  </a>
+</div>
+
+##
+<div> 
+  <a href="https://www.instagram.com/_islaianeribeiro?igsh=MWUzaGVwazJvcW44bw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: islaiane.lribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/islaianeribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
