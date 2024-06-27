@@ -1,5 +1,7 @@
 ## Olá! Me chamo Islaiane Ribeiro.
 
+Estudo programação a um pouco mais de um ano, faço Análise e desenvolvimento de sistemas, sempre fui muito interessada nas áreas de tecnologia e quando entrei nesse curso, me identifiquei de imediato. A programação é uma área ampla, estou atualmente aprimorando meus conhecimentos em Front-End, porém também busco melhorar minhas habilidades em Back-End.
+Meu objetivo é futuramente ser uma Desenvolvedora Web.
 <!--
 
 - 🔭 I’m currently working on ...
