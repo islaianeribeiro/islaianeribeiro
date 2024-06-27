@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/islaianeribeiro/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=islaianeribeiro&theme=dracula&show_icons=true&icon_color=6757a3&title_color=6757a3&include_all_commits=true&bg_color=000" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=islaianeribeiro&theme=dracula&show_icons=true&icon_color=6757a3&title_color=6757a3&bg_color=000" />
   </a>
   <a href="https://github.com/islaianeribeiro/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islaianeribeiro&layout=compact&langs_count=8&card_width=320&theme=dracula&title_color=6757a3&bg_color=000" />
