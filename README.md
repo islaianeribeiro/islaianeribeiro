@@ -1,4 +1,5 @@
-## Olá! Me chamo Islaiane Ribeiro.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6757a3&random=false&width=500&height=40&lines=Olá,+me+chamo+Islaiane+Ribeiro.)](https://git.io/typing-svg)
+---
 
 Olá! Meu nome é Islaiane Ribeiro e sou desenvolvedora web, estou desenvolvendo experiência em construção de interfaces e aplicações interativas. Minha paixão por tecnologia e design me levou a me interessar em várias ferramentas e linguagens essenciais para o desenvolvimento web.
 
