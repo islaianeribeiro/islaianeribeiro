@@ -1,7 +1,10 @@
 ## Olá! Me chamo Islaiane Ribeiro.
 
-Estudo programação a um pouco mais de um ano, faço Análise e Desenvolvimento de Sistemas, sempre fui muito interessada nas áreas de tecnologia e quando entrei nesse curso me identifiquei de imediato. A programação é uma área ampla, estou atualmente aprimorando meus conhecimentos em Front-End, porém também busco melhorar minhas habilidades em Back-End.
-Meu objetivo é futuramente ser uma Desenvolvedora Web.
+Olá! Meu nome é Islaiane Ribeiro e sou desenvolvedora web, estou desenvolvendo experiência em construção de interfaces e aplicações interativas. Minha paixão por tecnologia e design me levou a me interessar em várias ferramentas e linguagens essenciais para o desenvolvimento web.
+
+Tenho conhecimento em JavaScript, HTML e CSS, o que me permite criar experiências de usuário ricas e responsivas. Além disso, estou me aprimorando em React, onde utilizo suas poderosas capacidades para construir componentes reutilizáveis e gerenciar o estado da aplicação de forma eficiente. No lado do servidor, trabalho com Node.js, o que me possibilita desenvolver APIs robustas e eficientes, integrando perfeitamente com o front-end.
+
+Atualmente, estou focada em aprofundar ainda mais meus conhecimentos na área de Front-end, buscando sempre me atualizar com as últimas tendências e melhores práticas para entregar soluções inovadoras e de alta qualidade. Estudo sobre as metodologias ágeis e utilizo o Scrum para garantir uma gestão eficiente dos projetos, promovendo um fluxo de trabalho organizado.
 <!--
 
 - 🔭 I’m currently working on ...
@@ -13,15 +16,6 @@ Meu objetivo é futuramente ser uma Desenvolvedora Web.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div>
-  <a href="https://github.com/islaianeribeiro/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=islaianeribeiro&theme=dracula&show_icons=true&icon_color=6757a3&title_color=6757a3&bg_color=000" />
-  </a>
-  <a href="https://github.com/islaianeribeiro/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islaianeribeiro&layout=compact&langs_count=8&card_width=320&theme=dracula&title_color=6757a3&bg_color=000" />
-  </a>
-</div>
 
 ##
 <div> 
