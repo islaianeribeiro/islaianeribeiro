@@ -1,46 +1,64 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6757a3&random=false&width=500&height=40&lines=Ol%C3%A1,+me+chamo+Islaiane+Ribeiro.)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=100&section=header"/>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6757a3&random=false&width=500&height=40&lines=Ol%C3%A1,+me+chamo+Islaiane+Ribeiro;Desenvolvedora+Front-End.)](https://git.io/typing-svg)
+---
+
+🌟 **Sobre mim**
+
+<img src="https://img.freepik.com/vetores-gratis/ilustracao-de-api-de-design-plano-desenhado-a-mao_52683-84601.jpg?uid=R181860934&ga=GA1.1.1877242851.1735667932&semt=ais_hybrid&w=740" width="400px" align="right">
+
+<br>
+
+Olá! Sou Islaiane Ribeiro, Desenvolvedora Front-End em formação, apaixonada por criar interfaces **acessíveis**, **responsivas** e com **ótima performance**.
+
+🎓 **Formação**  
+- Último semestre de **Análise e Desenvolvimento de Sistemas**.  
+- Participante da fase avançada do **Bootcamp Skill+ Santander (Open Academy + Ada)**.  
+  - Estudos em **Python**, **Visualização de Dados** e **IA Generativa**.  
+  - Participação em mentorias com foco no mercado tech.
+
+💬 **Soft skills**  
+- Comunicação clara e objetiva.  
+- Organização e atenção aos detalhes.
+- Facilidade em aprender coisas novas.
+- Espírito de equipe e vontade constante de aprender.
+
+🚀 **Objetivo**  
+Estou em busca da **minha primeira oportunidade como Desenvolvedora Front-End Júnior** para aplicar meus conhecimentos, contribuir em projetos reais e crescer profissionalmente!
 
 ---
 
-## 👋 Sobre mim
+### 🛠️ Tecnologias & Ferramentas
 
-Olá! Me chamo **Islaiane Ribeiro** e sou **Desenvolvedora Front-End**, apaixonada por criar interfaces interativas e proporcionar experiências de usuário acessíveis e de alto desempenho. Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="40" />
+</p>
 
-## 💡 Tecnologias e Ferramentas
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<a href="https://github.com/islaianeribeiro/github-readme-stat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islaianeribeiro&layout=compact&theme=radical&langs_count=8&card_width=320" />
+</a>
 
-## 🎓 Formação
+---
 
-📌 **Graduanda em Análise e Desenvolvimento de Sistemas** - Unopar (Conclusão: Jun/2025)
-
-## 💻 Experiência Prática
-
-- Desenvolvimento de projetos **pessoais e acadêmicos**, aplicando boas práticas como **componentização, responsividade e otimização de performance**.
-- Selecionada para a **fase avançada do Bootcamp Skill+ Santander Open Academy**, aprimorando conhecimentos em:
-  - Python
-  - DataViz
-  - Inteligência Artificial Generativa
-  - Data Storytelling
-- Participação em **mentorias e simulações de entrevistas técnicas**, desenvolvendo soft skills essenciais para o mercado de trabalho.
-
-## 🚀 Diferenciais
-
-✔️ **Habilidades interpessoais:** Comunicação, resolução de problemas, auto-organização e aprendizado contínuo.  
-✔️ **Adaptação rápida:** Sempre disposta a aprender e explorar novas tecnologias.  
-✔️ **Motivação:** Buscando constantemente desafios para evoluir na área de tecnologia.
-
-## 🎯 Objetivo Profissional
-
-📢 Estou em busca da **minha primeira oportunidade como Desenvolvedora Front-End Júnior**! Se você procura alguém motivado, proativo e em constante evolução, ficarei feliz em me conectar e conversar sobre oportunidades na área de tecnologia.
-
-## 🌎 Vamos nos conectar?
+### 📫 Contato
 
 <div align="left">
   <a href="https://www.instagram.com/_islaianeribeiro?igsh=MWUzaGVwazJvcW44bw==" target="_blank">
@@ -53,3 +71,7 @@ Olá! Me chamo **Islaiane Ribeiro** e sou **Desenvolvedora Front-End**, apaixona
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=100&section=footer"/>
+</p>
