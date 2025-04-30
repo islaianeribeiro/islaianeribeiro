@@ -3,14 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=100&section=header"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6757a3&random=false&width=500&height=40&lines=Ol%C3%A1,+me+chamo+Islaiane+Ribeiro;Desenvolvedora+Front-End.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6757a3&random=false&width=500&height=40&lines=Ol%C3%A1,+me+chamo+Islaiane+Ribeiro.;Sou+Desenvolvedora+Front-End.)](https://git.io/typing-svg)
 ---
 
 🌟 **Sobre mim**
 
 <img src="https://img.freepik.com/vetores-gratis/ilustracao-de-api-de-design-plano-desenhado-a-mao_52683-84601.jpg?uid=R181860934&ga=GA1.1.1877242851.1735667932&semt=ais_hybrid&w=740" width="400px" align="right">
-
-<br>
 
 Olá! Sou Islaiane Ribeiro, Desenvolvedora Front-End em formação, apaixonada por criar interfaces **acessíveis**, **responsivas** e com **ótima performance**.
 
