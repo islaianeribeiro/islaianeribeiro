@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introdução -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=6757A3&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+me+chamo+Islaiane+Ribeiro!;Desenvolvedora+Front-End." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=200&pause=1000&color=6757A3&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+me+chamo+Islaiane+Ribeiro!;Desenvolvedora+Front-End." alt="Typing SVG" /></a>
 
 ---
 
@@ -72,7 +72,6 @@ Atualmente estou em busca da **minha primeira oportunidade como desenvolvedora j
   </a>
 </p>
 
----
 
 <!-- Footer -->
 <p align="center">
