@@ -1,75 +1,80 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=180&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6757a3&random=false&width=500&height=40&lines=Ol%C3%A1,+me+chamo+Islaiane+Ribeiro.;Sou+Desenvolvedora+Front-End.)](https://git.io/typing-svg)
+<!-- Introdução -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=6757A3&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+me+chamo+Islaiane+Ribeiro!;Desenvolvedora+Front-End." alt="Typing SVG" /></a>
 
 ---
 
-<img src="https://img.freepik.com/vetores-gratis/ilustracao-de-api-de-design-plano-desenhado-a-mao_52683-84601.jpg?uid=R181860934&ga=GA1.1.1877242851.1735667932&semt=ais_hybrid&w=740" width="400px" align="right">
+## 🌟 Sobre mim  
 
-🌟 **Sobre mim**
+Sou **Desenvolvedora Front-End** com foco em criar interfaces modernas, acessíveis e responsivas.  
+Tenho formação em **Análise e Desenvolvimento de Sistemas** e venho aprimorando minhas habilidades em **React, Next.js e TypeScript**.  
 
-Olá! Sou Islaiane Ribeiro, Desenvolvedora Front-End formada em Análise e Desenvolvimento de Sistemas. Sou apaixonada por criar interfaces acessíveis, responsivas e com ótima performance.
+Atualmente estou em busca da **minha primeira oportunidade como desenvolvedora júnior**, para aplicar meus conhecimentos em projetos reais e crescer junto com a equipe.  
 
-🎓 **Formação**  
-- Tecnóloga em **Análise e Desenvolvimento de Sistemas** (concluído).  
-- Participante da fase avançada do **Bootcamp Skill+ Santander (Open Academy + Ada)**  
-  - Foco em **Python**, **Visualização de Dados** e **IA Generativa**  
-  - Acompanhamento por mentorias voltadas ao mercado de tecnologia
+✨ Interesses principais: **UI/UX**, **desenvolvimento web** e **boas práticas de código**.  
+🚀 Em paralelo, também exploro **Python e Visualização de Dados** para expandir minha bagagem técnica.  
 
-💬 **Soft skills**  
-- Comunicação clara e objetiva  
-- Organização e atenção aos detalhes  
-- Facilidade de aprendizado contínuo  
+---
+
+## 💡 Soft Skills  
+- Comunicação clara e objetiva
+- Organização e atenção aos detalhes
+- Facilidade de aprendizado contínuo
 - Espírito de equipe e colaboração
 
-🚀 **Objetivo profissional**  
-Busco minha **primeira oportunidade como Desenvolvedora Front-End Júnior** para aplicar meus conhecimentos em projetos reais e continuar minha evolução profissional.
-
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas  
 
+### 🎨 Front-End  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="45" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="45" alt="Tailwind"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" height="45" alt="Vite"/>
+</p>
+
+### ⚙️ Back-End  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" height="45" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="45" alt="Python"/>
+</p>
+
+### 🛠️ Ferramentas  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="45" alt="VS Code"/>
 </p>
 
 ---
 
-<a href="https://github.com/islaianeribeiro/github-readme-stat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islaianeribeiro&layout=compact&theme=radical&langs_count=8&card_width=320" />
-</a>
+## 📫 Onde me encontrar  
+
+<p align="center">
+  <a href="https://www.instagram.com/_islaianeribeiro" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:islaiane.lribeiro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/islaianeribeiro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📫 Onde me encontrar
-
-<div align="left">
-  <a href="https://www.instagram.com/_islaianeribeiro" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:islaiane.lribeiro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/islaianeribeiro" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
-
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=footer"/>
 </p>
